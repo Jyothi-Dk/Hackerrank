@@ -19,6 +19,7 @@ Given the participants' score sheet for your University Sports Day, you are requ
 Sample Input 
 
 5
+
 2 3 6 6 5
 
 Sample Output 
