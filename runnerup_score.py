@@ -1,0 +1,6 @@
+no_of_scores=int(input())
+score_list=input()
+scores=map(int,score_list.split())
+arr=list(set(scores))
+arr.sort(reverse=True)
+print(arr[1])
